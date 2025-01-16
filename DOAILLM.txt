@@ -109,3 +109,145 @@ https://www.sopsandguidelines.com/cannabis-industry/
 Cannabis SOP Example Documents
 https://www.mjbizdaily.com/
 
+Example SOP:
+"Purpose
+To provide a process for the Trim Room operation and quality requirements of material as it moves through the overall trimming process.
+
+Scope
+The procedures listed pertains to all material entering and exiting the Trim Room and its processes.
+
+Responsibility
+The Production Manager is responsible for creating Trim Schedule post bucking process and requires approval from Site Manager. The Trim Lead and QC staff are responsible to ensure that all material meets Connected standard for quality. Trim Lead/Site Manager should also use this time to evaluate quality of product and assess any difficulties that may arise from the trim process.
+Definitions
+LTB: Large Trimmed Bud
+STB: Small Trimmed Bud
+Sub: Small, Untrimmed Bud		
+
+Required Items
+Trim Bins, Shears, PPE, Stainless Bowls, Isopropyl Alcohol, Scales, Mylar Bags, Shop Towels (Blue), Parchment Paper.
+References
+
+Procedure
+
+A. Pre-Operational Checks
+	1. Prior to startup, Trim Room Lead and staff ensure all PPE is being worn properly, scales are verified/tared for accurate weight measurement, all equipment is clean from previous day production, supplies are restocked/staged for production and area is sanitized.
+
+B. Sample Trays
+1. Trim lead/Site Manager should also use this time to evaluate quality of product and assess any difficulties that may arise from the trim process. Examples of quality issues may include, but are not limited to:
+-Acceptable size/trim (Pass QC).
+- Smalls (smalls should be weighed to determine baseline, typically less than 0.30g is considered smalls, anything greater is LTB).
+-Excess Leaf
+-Shaving
+-Gap
+-Excess Stem
+Trim/QC Process
+Dedicated QC person(s) begins walking floor as soon as trimming begins. There should be 1 dedicated floor QC person per 15 trimmers max.
+QC checks each trimmer station, buds that meet QC standards are moved from trimmers tray into each trimmers individual trim bag, anything that does not meet QC standards is to be returned to the trimmers tray. Only QC designates when product goes into bags. Trimmers are not to add or remove product from bags. QC will counsel trimmers as to why product has not met QC expectations and what corrective action should be taken such as; remove green leaves, stop shaving, break down large buds, etc.
+QC is to check trim quality and trimmer handling of product. Cannabis buds are very delicate, trimmers have been educated/counseled by QC staff when working through product in their trim bin. Excessive handling can cause shaved buds or loss of trichomes. QC monitors kief collection traps at end of day and throughout process. Excess kief in kief trap typically means the trimmer is over-handling product.
+Once trimmer has completed their entire tray and has passed QC, they should then proceed to front of room or where bucked material is being stored. Dedicated QC staff will fill their tray from “bucked bins”.  Typically, this person will also handle trim duties and is not a dedicated trimmer. Trimmers should be given a reasonable amount of material but not enough to overflow trim bins or cause buds to flatten at bottom of tray.
+QC process should always be done at the trimmers station and not at front of room or at end of day. Continuous QC checks throughout the day will eliminate the need to QC backlogged material after the fact and provides accountability for each individual trimmer. This is especially important in a piece rate or bonus pay rate model. Before the end of each strain or at minimum once per day QC should check trimmers smalls bag/bowl to ensure correct sizing and weight i.e. no LTB is being thrown into STB/SUB. An easy check is to use small nickel sized circle on the corner of trim bins, but you must be sure to verify weights of STB to confirm sizing. All sizing is strain and turn dependent.
+
+
+
+
+
+
+
+
+
+
+
+STB/SUB Quality Sort Process
+Density and/or quality of bud such as loose, fluffy buds, color can also be a factor in determining whether a bud should be considered STB/SUB. For example, if a nug is extremely loose or lacking color, the nug should be broken down and thrown into STB/SUB.
+
+
+End of Day Sanitation/Change Over Process
+End of Shift and/or upon completion of any strain during the shift, it is required that QC staff collects and issues new bags to trimmers. Trimmers are to sanitize their respective stations and all equipment (i.e. stainless bowls, shears, etc.) prior to beginning next strain. QC or designated person would then weigh out each trimmers bag individually and record their weight. This weight would be added to any other trim that is completed that day for a daily total. All weights are to be recorded and entered into Daily KPI (in Production Schedule) that tracks each trimmers progress on a daily basis. QC and Trim Lead are responsible for weight data collection during shift and Trim Lead is responsible for entering recorded weigh data into Production Schedule spreadsheet.
+Once individual trimmers bag is completed and reviewed by QC, Trim Lead should perform final QC while pounding out bags to 900.0g (2.0 lbs.). Final QC check by Trim Lead should be to verify sizing, bag appeal, color, nose, etc.
+Any issues that may arise from final QC should be reported to site manager.
+At end of day each trimmer should be given their total weight for the day. This is to ensure trimmers have accountability at are able to asses they are hitting goals designated by site manager.
+Completed bags will then be placed into racking and identified as “On Hold” pending post-trim R&D results. No material may exit trim/enter packaging without R&D results being verified and reviewed by management.
+Any WIP material is to be moved to Dry Room#3 on proper shelving to ensure area is ready for next day production.
+
+E.	Kief Collection Process
+  1.    Kief collection process should be determined by site manager to best meet the needs of the site.
+               Some examples of kief collection can include; reintroduction of kief into trim material or saving kief as a standalone SKU for items such as Frenchies."
+
+Example 2:
+"1.0 Purpose
+To provide a process for the accurate and timely shipping of Finished Goods to customer.
+2.0 Scope
+The procedures listed pertains to all Finished Goods identified for shipment to customer.
+3.0 Responsibility
+The Production Manager, Packaging Lead and Inventory Supervisor are responsible to ensure accurate and
+timely shipping of Finished Goods to customer.
+4.0 Definitions
+5.0 Required Items
+QC/Traceability Stickers, Secondary Labels, Lap Top Computer (Inventory Control), Orvis Totes, Pallet Jack,
+Manifest Documentation, Finished Goods Compliance Testing Results.
+6.0 References
+SOP-PC-5.0 Secondary Label Creation.
+7.0 Procedure
+A. Finished Goods Compliance Test Result
+1. Results from Finished Goods Compliance testing must be received and indicate a “Pass” for all testing
+parameters prior to initiating the next steps of Finished Goods shipping. No Finished Goods that have
+received a “Fail” may enter the next steps of the process.
+B. Secondary Labeling
+1. Once Compliance Testing is verified, Secondary Labels are created for Finished Goods application
+(see SOP-PC-5.0).
+2. Secondary Labels are to be placed onto the top surface of the plastic cap used to close the jar. The
+jars will be located in Master Cases of 15 units and stored in the Inventory Room.
+3. When all 15 units within the Master Case are labelled, the staff member will place a QC
+Traceability sticker on the outside top surface of the Master Case. The QC Traceability sticker
+must be initialed and dated by the staff member.
+C. Initiating Shipment
+1. When all Finished Goods have been verified for Secondary labels, the Inventory Supervisor creates
+and sends a STO request to the Trulieve southeastern control hub, which is then verifies all Finished Goods
+too be shipped are accurate in SAP inventory.
+2. Southeastern control hub will then create a manifest and authorize a pickup conducted by Trulieve
+couriers.
+D. Shipment
+1. Prior to loading of Finished Goods, all Master Cases go through a final visual verification. A
+member of the Inventory team will open and visually verify all Master Cases before loading into Orvis Totes
+for transport. Once visually verified, a large pink sticker (Connected product), or large green sticker (Alien
+Labs product) will be placed across the seal of the box and will be initialed and dated.
+3. Upon arrival for pick up of shipment, manifest is reviewed and signed by the Inventory Supervisor
+and is verified by Trulieve couriers. Once verified, loading of Orvis Totes shipment may begin. Once
+
+Document
+Hierarchy:
+PC-8.0
+
+Document
+Number:
+SOP-PC-8.0
+
+Document Title:
+Finished Goods
+Shipping
+
+Department:
+Production Department
+
+Version:
+1.0
+
+Effective Date:
+3-16-2023
+
+Pages:
+Page 2 of 4
+
+SOP-PC-8.0 Version 1.0 Page 2 of 4
+Confidential Company Proprietary Information Connected Cannabis ADDRESS TBD
+shipment is loaded, the manifest is turned over to driver for signature and verification of shipment and the
+shipment is free to depart.
+4. A hard copy of the manifest/STO is kept on file for Connected records.
+
+SOP-PC-8.0 Version 1.0 Page 4 of 4
+Confidential Company Proprietary Information Connected Cannabis ADDDRESS TBD
+Version History
+Date Effective CR Number Revision History
+2/28/2023 TBD New document."
+
+
